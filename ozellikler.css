@@ -1,0 +1,47 @@
+#head {
+    margin: 2%;
+}
+
+
+h1 {
+    color:#F1948A;
+}
+
+h2 {
+    text-align: center;
+    color: palevioletred;
+}
+
+.tatilsec {
+    text-align: center;
+  }
+
+#paketler {
+    text-align: center;
+}
+
+#hakkımızda {
+    margin: 2%;
+    color: whitesmoke;
+    font-size:  x-large;
+    text-shadow: 3px 2px 1px #000;
+}
+
+#iletisim {
+    margin: 2%;
+    font-size: large;
+}
+
+#baslik {
+    text-align: left;
+    color: whitesmoke;
+    font-size:  x-large;
+    text-shadow: 3px 2px 1px #000;
+}
+
+#adim {
+    font-size: large;
+    text-align: right;
+    text-shadow: 3px 2px 1px #F1948A;
+
+}
